@@ -1,0 +1,23 @@
+{
+  "name": "jsproject01",
+  "version": "1.0.0",
+  "description": "A playarround project to understand eslint, travis ci and code coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiattoRocha/jsProject01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiattoRocha/jsProject01/issues"
+  },
+  "homepage": "https://github.com/MiattoRocha/jsProject01#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-google": "^0.7.1"
+  }
+}
